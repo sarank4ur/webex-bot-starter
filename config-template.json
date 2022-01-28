@@ -1,5 +1,5 @@
 {
-  "webhookUrl": "http://_REPLACE_THIS_WITH_NGROK_URL_.ngrok.io",
-  "token": "REPLACE_THIS_WITH_YOUR_BOT_API_KEY",
+  "webhookUrl": "http://12b2-64-103-40-28.eu.ngrok.io",
+  "token": "zgi3odg0zdktnmq1ms00mdk0lwe1yzetotjjnmy5zti3ytk4ntiyntuxmzityjlk_pf84_1eb65fdf-9643-417f-9974-ad72cae0e10f",
   "port": 7001
 }
